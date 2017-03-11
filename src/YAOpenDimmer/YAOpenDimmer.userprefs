@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{47569482-C3B9-4471-BA6C-EC373E5FB981}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.YAODService PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="YAODService\Program.cs">
+    <Files>
+      <File FileName="YAODTest\Program.cs" Line="35" Column="25" />
+      <File FileName="YAODService\YAODBoard.cs" Line="17" Column="36" />
+      <File FileName="YAOD.Hardware\PCA9530d.cs" Line="84" Column="50" NotebookId="1" />
+      <File FileName="YAODService\YAODService.cs" Line="35" Column="25" NotebookId="1" />
+      <File FileName="YAODService\ControlModule.cs" Line="24" Column="4" NotebookId="1" />
+      <File FileName="YAODService\Program.cs" Line="16" Column="5" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

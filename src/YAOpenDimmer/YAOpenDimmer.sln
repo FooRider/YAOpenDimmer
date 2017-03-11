@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YAODService", "YAODService\YAODService.csproj", "{47569482-C3B9-4471-BA6C-EC373E5FB981}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YAOD.Hardware", "YAOD.Hardware\YAOD.Hardware.csproj", "{DCD2FF5C-C18A-4CA1-8BF4-C5814E6FB1C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YAODTest", "YAODTest\YAODTest.csproj", "{E6FAE2E4-C056-46ED-A091-E4FD7E867B66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47569482-C3B9-4471-BA6C-EC373E5FB981}.Debug|x86.ActiveCfg = Debug|x86
+		{47569482-C3B9-4471-BA6C-EC373E5FB981}.Debug|x86.Build.0 = Debug|x86
+		{47569482-C3B9-4471-BA6C-EC373E5FB981}.Release|x86.ActiveCfg = Release|x86
+		{47569482-C3B9-4471-BA6C-EC373E5FB981}.Release|x86.Build.0 = Release|x86
+		{DCD2FF5C-C18A-4CA1-8BF4-C5814E6FB1C8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DCD2FF5C-C18A-4CA1-8BF4-C5814E6FB1C8}.Debug|x86.Build.0 = Debug|Any CPU
+		{DCD2FF5C-C18A-4CA1-8BF4-C5814E6FB1C8}.Release|x86.ActiveCfg = Release|Any CPU
+		{DCD2FF5C-C18A-4CA1-8BF4-C5814E6FB1C8}.Release|x86.Build.0 = Release|Any CPU
+		{E6FAE2E4-C056-46ED-A091-E4FD7E867B66}.Debug|x86.ActiveCfg = Debug|x86
+		{E6FAE2E4-C056-46ED-A091-E4FD7E867B66}.Debug|x86.Build.0 = Debug|x86
+		{E6FAE2E4-C056-46ED-A091-E4FD7E867B66}.Release|x86.ActiveCfg = Release|x86
+		{E6FAE2E4-C056-46ED-A091-E4FD7E867B66}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

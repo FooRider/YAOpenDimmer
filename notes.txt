@@ -1,0 +1,11 @@
+[Armbian on OrangePi Zero setup]
+1. download Debian Jessie image from https://www.armbian.com/orange-pi-zero/
+2. write image onto a SD card using Etcher ( http://etcher.io/ )
+3. boot up the OrangePi Zero, find on network, connect using SSH. Default root password is 1234
+
+[mono setup]
+
+[OpenHAB setup]
+
+****** DEV Help *******
+[NFS setup]
